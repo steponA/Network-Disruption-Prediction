@@ -16,14 +16,14 @@ event_type.csv, log_feature.csv, resource_type.csv, and severity_type.csv are th
 Sample_submission.csv provides a sample submission file in the correct format.
 <br>
 
-<b>ANALYSIS PROCESSS</b>
-analysis.R is a script written in R programming language.
+<b>ANALYSIS PROCESSS</b><br>
+analysis.R is a script written in R programming language. <br>
 There are 4 main steps in this analysis: initial setup, data pre-processing, data modelling, and output preparation. <br>
 Prediction accuracy is evaluated using multi-class logarithmic loss. 
 Each data row has been labeled with one true class. 
 <br>
 
-<b>RESULT/CONCLUSION</b>
+<b>RESULT/CONCLUSION</b><br>
 result.csv is a file consisted of a set of test row id and probability for all 3 classes of fault fault severity. 
 <br>
 
