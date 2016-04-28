@@ -1,8 +1,7 @@
 # Network-Disruption-Prediction
 
 <b>CONTEXT</b><br>
-An anonymized telecommunication company is working on improving its customer satisfation. <br>
-One way to do so is by predicting the scope and timing of service disruption to help better serve its customers. 
+An anonymized telecommunication company is working on improving its customer satisfation. One way to do so is by predicting the scope and timing of service disruption to help better serve its customers. 
 <br>
 
 <b>OBJECTIVE</b><br>
@@ -13,7 +12,7 @@ The disruption fault severity is assigned with 3 categories: 0 meaning no fault,
 <b>DATA DESCRIPTION</b><br>
 train.csv and test.csv are the main datasets. <br>
 event_type.csv, log_feature.csv, resource_type.csv, and severity_type.csv are the supplementary datasets. <br>
-Sample_submission.csv provides a sample submission file in the correct format.
+sample_submission.csv provides a sample submission file in the correct format.
 <br>
 
 <b>ANALYSIS PROCESSS</b><br>
