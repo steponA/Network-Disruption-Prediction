@@ -2,7 +2,7 @@
 
 <b>CONTEXT</b><br>
 An anonymized telecommunication company is working on improving its customer satisfation. <br>
-One way to do so is by predicting the scope and timing of service disruption to help better serve its customers. <br>
+One way to do so is by predicting the scope and timing of service disruption to help better serve its customers. 
 <br>
 
 <b>OBJECTIVE</b><br>
