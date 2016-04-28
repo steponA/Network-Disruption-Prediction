@@ -27,5 +27,5 @@ result.csv is a file consisted of a set of test row id and probability for all 3
 Cross-validation on my local machine is 0.451878, while the public leaderboard score is 0.45538 and the private leaderboard score is 0.45956. In the competition, it was ranked 78th of of 924 competitors (top 9%). 
 <br>
 
-<b>LESSON(S) LEARNED</b>
-As a beginner, I learned a lot from this challenge such as combining/separating and reshaping data set and using xgboost. This size of data set is relatively small that it is manageable for me to trial and error. But the most challenging part for me is figuring out the time pattern, which I uncovered through feature engineering. The model I built is actually a simple one, with very minimal finetuning. So this is also an area I would like to improve. 
+<b>LESSON(S) LEARNED</b><br>
+As a beginner, I learned a lot from this challenge such as combining/separating and reshaping data set and using xgboost. This size of data set is relatively small that it is manageable for me to trial and error in a reasonable amount of time. But the most challenging part for me is figuring out the time pattern, which I uncovered through feature engineering. The model I built is actually a simple one, with very minimal fine-tuning. So, this is an area I would like to improve in the next iteration.
