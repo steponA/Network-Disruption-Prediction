@@ -18,6 +18,8 @@ Sample_submission.csv provides a sample submission file in the correct format.
 
 <b>ANALYSIS PROCESSS</b>
 
+Prediction accuracy is evaluated using multi-class lograithmic loss. 
+Each data row has been labeled with one true class. 
 <br>
 
 <b>RESULT/CONCLUSION</b>
